@@ -1,12 +1,9 @@
 # NFT Marketplace 
 
-The final project for the Cyfrin Web3 Full Stack crash course, where we introduce:
-
 1. Indexing (rindexer)
-2. Fleek CLI
-4. Compliance Engine
-5. USDC payment
-6. Gashawk
+2. Vercel
+3. Compliance Engine
+4. USDC payment
 
 A full-stack NFT marketplace with listing, buying, and compliance features built with Next.js, TypeScript, and Wagmi.
 
